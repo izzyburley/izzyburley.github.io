@@ -21,7 +21,7 @@ repository               : "izzyburley/izzyburley.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\izzyb\OneDrive\Desktop\Mac Documents\1691422165163.jpg"
+  avatar           : "profile.png"
   name             : "Izzy Burley"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineer"
