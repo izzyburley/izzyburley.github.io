@@ -66,17 +66,5 @@ location: "Various Locations, USA"
 
 ---
 
-## Relevant Coursework
-
-- Digital Systems  
-- Computational Engineering (C++)  
-- Circuits and Devices  
-- Physics I and II  
-- Differential Equations  
-- Calculus I and II  
-- Foundations of Engineering (MATLAB)  
-
----
-
-[More Information Here]([https://ece.vt.edu/])
+[More information about Amentum-SNS]([https://www.sns-spareparts.com/])
 
