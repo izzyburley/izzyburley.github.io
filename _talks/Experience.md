@@ -10,7 +10,7 @@ location: "Various Locations, USA"
 ## Professional Experience
 
 ### Research and Development Engineering Intern  
-**Amentum’s Delta Bridge** – Alexandria, VA  
+**Amentum - Secure Network Solutions** – Alexandria, VA  
 **May 2024 – August 2024**  
 - Designed and manufactured deployable communication cases using Fusion 360, including Starlink systems, surveillance packages, and obfuscation kits.  
 - Fabricated technical enclosures and satellite brackets using advanced tools like mills, CNC, and drill presses.  
