@@ -1,13 +1,11 @@
 ---
-title: "Experience"
+title: "  EXPERIENCE"
 collection: experience
 type: "Professional Experience"
 permalink: /experience/engineering
 venue: "Virginia Tech and Professional Roles"
 location: "Various Locations, USA"
 ---
-
-# Experience
 
 ## Professional Experience
 
@@ -80,5 +78,5 @@ location: "Various Locations, USA"
 
 ---
 
-[More Information Here](http://exampleurl.com)
+[More Information Here]([https://ece.vt.edu/])
 
