@@ -2,7 +2,7 @@
 title: "All About Me"
 collection: gallery
 type: "Creative Showcase"
-permalink: /gallery/2025-fun-facts-pictures
+permalink: /gallery/fun-facts-pictures
 venue: "My Adventures and Interests"
 date: 2025-01-27
 location: "Around the World"
@@ -14,7 +14,7 @@ This page is dedicated to sharing fun facts about my life and showcasing some of
 - **I love being creative** whether its painting banners, drawing, or building things.  
 - **I have a soft spot for fitness.** The gym is my happy place five times a week.  
 - **I’m part of an amazing sorority** at Virginia Tech, where I’ve created unforgettable memories all a part of Kappa Delta.  
-- **My fluffy companions.** are so much fun.
+- **My fluffy companions** are so much fun.
 
 # Picture Gallery  
 Below are some of my favorite moments captured:  
@@ -30,5 +30,3 @@ Below are some of my favorite moments captured:
 
 ![Adventures with my dogs](https://via.placeholder.com/300)  
 *My adorable dogs enjoying the outdoors.*  
-
-Feel free to share your thoughts or favorite memories in the comments section!
