@@ -6,7 +6,7 @@
 
 main:
   - title: "Education"
-    url: /publications/
+    url: /education/virginia-tech
 
   - title: "Experience"
     url: /talks/    
