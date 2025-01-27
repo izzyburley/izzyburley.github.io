@@ -1,28 +1,41 @@
 ---
-title: "Virginia Tech"
-collection: publications
-category: education
-permalink: /education/Education2
-excerpt: 'Major: Controls Robotics and Autonomy; Focus: Networking'
-date: May 2026
-venue: 'Virginia Tech College of Engineering'
-citation: 'Your Name. (2026). Bachelor of Science in Electrical Engineering, Major in Controls Robotics and Autonomy. <i>Virginia Tech College of Engineering</i>.'
+title: "Virginia Tech Education"
+permalink: /education/virginia-tech
+layout: page
 ---
 
-Virginia Tech College of Engineering is renowned for its cutting-edge programs and commitment to innovation. As a graduate, my focus areas included Controls, Robotics, and Autonomy, with a strong emphasis on Networking. This robust curriculum provided me with the technical expertise and practical skills necessary for the engineering challenges of the modern world.  
+# Virginia Tech College of Engineering
+
+**Degree:** Bachelor of Science in Electrical Engineering  
+**Graduation Date:** May 2026  
+**Major:** Controls Robotics and Autonomy  
+**Focus Area:** Networking  
+
+Virginia Tech College of Engineering is renowned for its cutting-edge programs and commitment to innovation. As a graduate, I specialized in Controls, Robotics, and Autonomy, with a strong focus on Networking. This rigorous curriculum equipped me with technical expertise and practical skills essential for tackling engineering challenges in today’s dynamic world.
 
 ---
+
 ## Relevant Coursework
 
-- Digital Systems
-- Embedded Systems
-- Computational Engineering (C++)  
-- Circuits and Devices
-- Signals and Systems
-- Physics I and II  
-- Differential Equations  
-- Calculus I, II, and III 
-- Foundations of Engineering (MATLAB)
-- Computer Architecture
+- **Digital Systems**  
+- **Embedded Systems**  
+- **Computational Engineering (C++)**  
+- **Circuits and Devices**  
+- **Signals and Systems**  
+- **Physics I and II**  
+- **Differential Equations**  
+- **Calculus I, II, and III**  
+- **Foundations of Engineering (MATLAB)**  
+- **Computer Architecture**  
 
 ---
+
+## Additional Highlights
+
+- Participated in hands-on projects combining analog signal processing, microcontroller programming, and network systems.  
+- Collaborated on innovative designs, including a modern radio teletype (RTTY) project and sensor systems using Raspberry Pi.  
+- Actively engaged in research and development internships, honing skills in Linux, network security, and system configuration.
+
+---
+
+This page is designed to showcase my educational journey and its impact on my professional development. For more information about Virginia Tech College of Engineering, visit [Virginia Tech Engineering](https://ece.vt.edu/).
