@@ -6,10 +6,10 @@
 
 main:
   - title: "Education"
-    url: /publications/
+    url: /education/
 
   - title: "Experience"
-    url: /talks/    
+    url: /experience/    
 
   - title: "Posts"
-    url: /teaching/
+    url: /posts/
