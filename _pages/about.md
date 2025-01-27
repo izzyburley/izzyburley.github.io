@@ -14,7 +14,7 @@ I am looking to find my passion within Computer Engineering.
 Currently majoring in Controls, Robotics, and Autonomy with a focus in Networking, I am looking to explore autonomous systems, secure networking, artificial intelligence, and signal processing with the goal of leading and working with diverse individuals to solve problems with innovation.
 
 ## FOR FUN!
-I enjoy staying active and promoting a healthy lifestyle. I love to go to the gym and cooking yummy, whole foods. 
+I enjoy staying active and promoting a healthy lifestyle. I love going to the gym and cooking yummy, whole foods. 
 
 
 
