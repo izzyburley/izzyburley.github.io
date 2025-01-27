@@ -1,5 +1,5 @@
 ---
-title: "Extras!"
+title: "All About Me"
 collection: gallery
 type: "Creative Showcase"
 permalink: /gallery/2025-fun-facts-pictures
