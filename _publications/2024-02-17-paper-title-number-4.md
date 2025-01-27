@@ -6,7 +6,7 @@ permalink: /education/2026-05-01-virginia-tech-degree
 excerpt: 'Major: Controls Robotics and Autonomy; Focus: Networking'
 date: May 2026
 venue: 'Virginia Tech College of Engineering'
-paperurl: '[https://ece.vt.edu/](https://ece.vt.edu/)'
+paperurl: '[https://izzyburley.github.io/publications/]'
 citation: 'Your Name. (2026). Bachelor of Science in Electrical Engineering, Major in Controls Robotics and Autonomy. <i>Virginia Tech College of Engineering</i>.'
 ---
 
