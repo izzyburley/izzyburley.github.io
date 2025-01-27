@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Extras!"
+collection: gallery
+type: "Creative Showcase"
+permalink: /gallery/2025-fun-facts-pictures
+venue: "My Adventures and Interests"
+date: 2025-01-27
+location: "Around the World"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This page is dedicated to sharing fun facts about my life and showcasing some of my favorite pictures. Explore and enjoy! You can use markdown to organize your content, making it interactive and visually engaging.
 
-Heading 1
-======
+# Fun Facts  
+- **I love being creative** Whether its painting banners, drawing, or building.  
+- **I have a soft spot for fitness.** The gym is my happy place five times a week.  
+- **I’m part of an amazing sorority** at Virginia Tech, where I’ve created unforgettable memories all a part of Kappa Delta.  
+- **Dogs are my best friends.** They bring so much joy to my life.
 
-Heading 2
-======
+# Picture Gallery  
+Below are some of my favorite moments captured:  
 
-Heading 3
-======
+![Masterpeices](https://via.placeholder.com/300)  
+*My latest creation that represents my creative journey.*  
+
+![Fitness fun](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)  
+*A proud ambassador of Laki Activewear.*  
+
+![Sorority life](https://via.placeholder.com/300)  
+*Celebrating sisterhood and friendship.*  
+
+![Adventures with my dogs](https://via.placeholder.com/300)  
+*My adorable dogs enjoying the outdoors.*  
+
+Feel free to share your thoughts or favorite memories in the comments section!
