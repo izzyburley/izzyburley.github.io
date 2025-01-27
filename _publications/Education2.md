@@ -2,7 +2,7 @@
 title: "Virginia Tech"
 collection: publications
 category: education
-permalink: /education/2026-05-01-virginia-tech-degree
+permalink: /education/Education2
 excerpt: 'Major: Controls Robotics and Autonomy; Focus: Networking'
 date: May 2026
 venue: 'Virginia Tech College of Engineering'
