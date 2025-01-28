@@ -4,6 +4,8 @@ permalink: /education/virginia-tech
 layout: page
 ---
 
+<div style="margin-left: 1.5em;">
+  
 # Virginia Tech College of Engineering
 
 **Degree:** Bachelor of Science in Electrical Engineering  
