@@ -18,11 +18,11 @@ Below are some of my favorite moments captured:
 ![Masterpeices](https://via.placeholder.com/300)  
 *My latest creation.*  
 
-[![Gym](https://via.placeholder.com/300)](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)  
-*A proud ambassador of Laki Activewear.*  
+![Gym](https://via.placeholder.com/300)  
+*A proud ambassador of [[Laki Activewear].(https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)]*  
 
-![Sorority](https://via.placeholder.com/300)  
-*Celebrating sisterhood and friendship.*  
+[![Sorority](https://via.placeholder.com/300)(https://vt.kappadelta.org/)]  
+*Celebrating sisterhood and friendship in Kappa Delta.*  
 
 ![Adventures](https://via.placeholder.com/300)  
 *Enjoying the outdoors.*  
