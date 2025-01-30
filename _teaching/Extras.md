@@ -15,8 +15,8 @@ This page is dedicated to sharing fun facts about my life and showcasing some of
 # Picture Gallery  
 Below are some of my favorite moments captured:  
 
-![Masterpeices](https://via.placeholder.com/300)  
-*My latest creation.*  
+![Moments](https://izzyburley.github.io/images/IMG_9104.JPG)  
+*My latest moments and creations.*  
 
 ![Gym](https://izzyburley.github.io/images/IMG_2467.jpg)
 A proud ambassador of [Laki Activewear](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)
