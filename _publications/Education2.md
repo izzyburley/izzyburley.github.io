@@ -1,7 +1,7 @@
 ---
-title: "Virginia Tech Education"
+title: "EDUCATION"
 permalink: /education/virginia-tech
-layout: page
+author_profile: true
 ---
 
 # Virginia Tech College of Engineering
