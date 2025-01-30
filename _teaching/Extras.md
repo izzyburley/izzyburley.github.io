@@ -21,8 +21,8 @@ Below are some of my favorite moments captured:
 ![Gym](https://izzyburley.github.io/images/IMG_2467.jpg)
 A proud ambassador of [Laki Activewear](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)
 
-[Kappa Delta](https://vt.kappadelta.org/)(https://izzyburley.github.io/images/Virginia Tech Collegians-353.JPEG)  
-Celebrating sisterhood and friendship in my sorority.  
+![Sorority](https://izzyburley.github.io/images/Virginia Tech Collegians-353.JPEG)  
+Celebrating sisterhood and friendship in [Kappa Delta](https://vt.kappadelta.org/)
 
 ![Adventures](https://izzyburley.github.io/images/IMG_1092 (1).jpg)  
 *Enjoying the outdoors.*  
