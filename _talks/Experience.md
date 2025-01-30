@@ -1,11 +1,10 @@
 ---
-title: "  EXPERIENCE"
-type: "Professional Experience"
+title: "EXPERIENCE"
 permalink: /experience/
 author_profile: true
 ---
 
-## Professional Experience
+# Professional Experience
 
 ### Research and Development Engineering Intern  
 **Amentum - Secure Network Solutions** – Alexandria, VA  
