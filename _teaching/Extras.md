@@ -24,5 +24,5 @@ A proud ambassador of [Laki Activewear](https://lakiactive.com/?ref=izzyburley&u
 [Sorority](https://vt.kappadelta.org/)  
 Celebrating sisterhood and friendship in Kappa Delta.  
 
-![Adventures](https://via.placeholder.com/300)  
+![Adventures](https://izzyburley.github.io/images/IMG_1092 (1).jpg)  
 *Enjoying the outdoors.*  
