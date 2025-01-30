@@ -1,10 +1,8 @@
 ---
 title: "  EXPERIENCE"
-collection: experience
 type: "Professional Experience"
-permalink: /experience/engineering
-venue: "Virginia Tech and Professional Roles"
-location: "Various Locations, USA"
+permalink: /experience/
+author_profile: true
 ---
 
 ## Professional Experience
