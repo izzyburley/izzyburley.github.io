@@ -1,11 +1,37 @@
----
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">{{ page.title }}</h2>
+    <p class="post-meta">{{ page.venue }} | {{ page.date }}</p>
+  </header>
 
-layout: archive
-title: "EDUCATION"
-permalink: /education/
-author_profile: true
----
+  <div class="post-content">
+    <p><strong>Major:</strong> {{ page.excerpt }}</p>
+    <p><strong>Institution:</strong> {{ page.venue }}</p>
+    <p><strong>Expected Graduation:</strong> {{ page.date }}</p>
 
-{% for post in site.education reversed %}
-  {% include archive-single-education.html %}
-{% endfor %}
+    <h3>Relevant Coursework</h3>
+    <ul>
+      <li>Digital Systems</li>
+      <li>Embedded Systems</li>
+      <li>Computational Engineering (C++)</li>
+      <li>Circuits and Devices</li>
+      <li>Signals and Systems</li>
+      <li>Physics I & II</li>
+      <li>Differential Equations</li>
+      <li>Calculus I, II, III</li>
+      <li>Foundations of Engineering (MATLAB)</li>
+      <li>Computer Architecture</li>
+    </ul>
+
+    <h3>Skills & Focus Areas</h3>
+    <ul>
+      <li><strong>Control Systems & Robotics:</strong> Designed and implemented autonomous systems</li>
+      <li><strong>Networking:</strong> TCP/IP, subnetting, VPNs, and secure communications</li>
+      <li><strong>Embedded Programming:</strong> Arduino, Raspberry Pi, FPGA design</li>
+      <li><strong>Software & Tools:</strong> Fusion 360, Quartus, MATLAB, Linux</li>
+    </ul>
+
+    <h3>More Information</h3>
+    <p>For more details, visit the <a href="https://ece.vt.edu/">Virginia Tech College of Engineering</a> website.</p>
+  </div>
+</article>
