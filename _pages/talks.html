@@ -6,4 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% include Experience.md %}
+{% for post in site.talks %}
+  {% if post.title == "EXPERIENCE" %}
+    {{ post.content }}
+  {% endif %}
+{% endfor %}
