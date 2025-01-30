@@ -11,7 +11,7 @@ author_profile: true
 **Major:** Controls Robotics and Autonomy  
 **Focus Area:** Networking and Cybersecurity 
 
-Virginia Tech College of Engineering is renowned for its cutting-edge programs and commitment to innovation. I am a proud Hokie, specializing in Controls, Robotics, and Autonomy, with a strong focus on Networking. Virginia Tech has provided me with technical expertise and practical skills that I have been able to apply hands on outside of school.
+Virginia Tech College of Engineering is renowned for its cutting-edge programs and commitment to innovation. I am a proud Hokie specializing in Controls, Robotics, and Autonomy, with a strong focus on Networking. Virginia Tech has provided me with technical expertise and practical skills that I have been able to apply hands on outside of school.
 
 ---
 
