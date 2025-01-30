@@ -38,4 +38,4 @@ Virginia Tech College of Engineering is renowned for its cutting-edge programs a
 
 ---
 
-This page is designed to showcase my educational journey and its impact on my professional development. For more information about Virginia Tech College of Electrical and Computer Engineering, visit [Virginia Tech Engineering](https://ece.vt.edu/).
+This page is designed to showcase my educational journey and its impact on my professional development. For more information about Virginia Tech College of Electrical and Computer Engineering, visit [VT ECE](https://ece.vt.edu/).
