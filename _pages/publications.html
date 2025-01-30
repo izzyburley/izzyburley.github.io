@@ -1,37 +1,36 @@
-<article class="post">
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.venue }} | {{ page.date }}</p>
-  </header>
+---
+layout: archive
+title: "Education"
+permalink: /publications/
+author_profile: true
+---
 
-  <div class="post-content">
-    <p><strong>Major:</strong> {{ page.excerpt }}</p>
-    <p><strong>Institution:</strong> {{ page.venue }}</p>
-    <p><strong>Expected Graduation:</strong> {{ page.date }}</p>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-    <h3>Relevant Coursework</h3>
-    <ul>
-      <li>Digital Systems</li>
-      <li>Embedded Systems</li>
-      <li>Computational Engineering (C++)</li>
-      <li>Circuits and Devices</li>
-      <li>Signals and Systems</li>
-      <li>Physics I & II</li>
-      <li>Differential Equations</li>
-      <li>Calculus I, II, III</li>
-      <li>Foundations of Engineering (MATLAB)</li>
-      <li>Computer Architecture</li>
-    </ul>
+{% include base_path %}
 
-    <h3>Skills & Focus Areas</h3>
-    <ul>
-      <li><strong>Control Systems & Robotics:</strong> Designed and implemented autonomous systems</li>
-      <li><strong>Networking:</strong> TCP/IP, subnetting, VPNs, and secure communications</li>
-      <li><strong>Embedded Programming:</strong> Arduino, Raspberry Pi, FPGA design</li>
-      <li><strong>Software & Tools:</strong> Fusion 360, Quartus, MATLAB, Linux</li>
-    </ul>
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
-    <h3>More Information</h3>
-    <p>For more details, visit the <a href="https://ece.vt.edu/">Virginia Tech College of Engineering</a> website.</p>
-  </div>
-</article>
+
+~
