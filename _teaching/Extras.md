@@ -1,11 +1,7 @@
 ---
 title: "All About Me"
-collection: gallery
-type: "Creative Showcase"
-permalink: /gallery/fun-facts-pictures
-venue: "My Adventures and Interests"
-date: 2025-01-27
-location: "Around the World"
+permalink: /extras/
+author_profile: true
 ---
 
 This page is dedicated to sharing fun facts about my life and showcasing some of my favorite pictures. Explore and enjoy!
