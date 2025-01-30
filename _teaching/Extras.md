@@ -1,6 +1,6 @@
 ---
-title: "All About Me"
-permalink: /extras/
+title: "EXTRA"
+permalink: /all-about-me/
 author_profile: true
 ---
 
