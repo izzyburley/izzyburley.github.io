@@ -28,6 +28,7 @@ Virginia Tech College of Engineering is renowned for its cutting-edge programs a
 - **Foundations of Engineering (MATLAB)**  
 - **Computer Architecture**
 - **Data Structures and Algorithms**
+
 ---
 
 ## Additional Highlights
