@@ -18,7 +18,7 @@ Below are some of my favorite moments captured:
 ![Masterpeices](https://via.placeholder.com/300)  
 *My latest creation.*  
 
-![Gym](https://via.placeholder.com/300)   
+![Gym](https://izzyburley.github.io/images/IMG_2467.jpg)
 A proud ambassador of [Laki Activewear](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)
 
 [Sorority](https://vt.kappadelta.org/)  
