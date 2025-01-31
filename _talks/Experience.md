@@ -63,5 +63,5 @@ author_profile: true
 
 ---
 
-[More information about Amentum-SNS](https://www.sns-spareparts.com/)
+More information about [Amentum-SNS](https://www.sns-spareparts.com/)
 
