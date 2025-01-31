@@ -56,10 +56,10 @@ author_profile: true
 
 ## Technical Skills
 
-**Developer Tools**: GitHub, Visual Studio, Quartus, Microsoft 365, Fusion360, SolidWorks, Adobe  
-**Programming and Platforms**: Linux, Arduino, C++, C (novice)  
-**Specialized Software**: Odoo, SemRush, WaveForms, WireShark, NMap
-**Soft Skills**: Analytical Thinking, Leadership, Sales, Communication, Public Speaking  
+**Developer Tools**: GitHub, Visual Studio, VS Code, Quartus, Microsoft 365, Fusion360, SolidWorks  
+**Programming and Platforms**: Linux, Arduino, C++, C, HTML, SQL (novice)  
+**Specialized Software**:  WireShark, NMap, Odoo, SemRush, WaveForms
+**Soft Skills**: Analytical Thinking, Leadership, Communication, Public Speaking  
 
 ---
 
