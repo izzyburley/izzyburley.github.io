@@ -16,7 +16,7 @@ This page is dedicated to sharing fun facts about my life and showcasing some of
 Below are some of my favorite moments captured:  
 
 ![Moments](https://izzyburley.github.io/images/IMG_9104.JPG)  
-*My latest moments and creations.*  
+*Sydney, Australia*  
 
 ![Gym](https://izzyburley.github.io/images/IMG_2467.jpg)
 A proud ambassador of [Laki Activewear](https://lakiactive.com/?ref=izzyburley&utm_source=affiliate)
